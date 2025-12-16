@@ -1,0 +1,6 @@
+﻿date,type,amount,category,currency,description
+2025-01-01,INCOME,5000,Salary,USD,January salary
+2025-01-05,EXPENSE,1200,Rent,USD,House rent
+2025-01-10,EXPENSE,300,Food,USD,Groceries
+2025-01-15,EXPENSE,200,Transport,USD,Bus pass
+
